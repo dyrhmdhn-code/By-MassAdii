@@ -13,9 +13,9 @@
       <h1><span>ADI MAQFUR RAHMADDHANI</span></h1>
       <p class="info">📧 Email: adymaqfurramaddani@gmail.com</p>
       <p class="info">📱 Telepon: 0857773776869</p>
-      <p class="info">📍 Alamat: Jakarta, Indonesia</p>
+      <p class="info">📍 Alamat: East Jakarta, Indonesia</p>
       <p class="bio">
-        Halo! Saya adalah seorang siswa Teknik Informatika yang menyukai desain web, pengembangan aplikasi, dan kopi susu. 
+        Halo! Saya adalah seorang siswa Teknik Komputer Jaringan yang menyukai Teknologi jaringan, pengembangan aplikasi, dan Kopi susu. 
         Saya senang mempelajari teknologi baru dan membuat sesuatu yang keren!
       </p>
     </div>
